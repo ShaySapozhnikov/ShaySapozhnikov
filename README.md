@@ -26,7 +26,7 @@ I'm a **Computer Science student** with a deep curiosity for how **technology in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" />
+  
 </p>
 
 - 🔍 **Data Analysis** – `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`  
