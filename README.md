@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shay Sapozhnikov!
 
 🎓 Computer Science Student @ University of Winnipeg  
-🪐 Geoscience Enthusiast | 🤖 Machine Learning Explorer | 
+🪐 Geoscience Enthusiast | 🤖 Machine Learning developer | 
 
 ---
 
