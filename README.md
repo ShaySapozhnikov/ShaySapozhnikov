@@ -69,13 +69,5 @@ I'm always open to chatting about science, software, research, or the cosmos.
 
 ---
 
-## 📈 GitHub Stats
-
-![ShaySapozhnikov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaySapozhnikov&theme=dracula&hide_border=false)
-
-
-
----
-
 > _"The good thing about science is that it's true whether or not you believe in it." – Neil deGrasse Tyson_
 
